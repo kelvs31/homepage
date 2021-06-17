@@ -22,12 +22,12 @@
           </div>
 	        <div id="main-nav" class="collapse navbar-collapse navStyle">
 		      	<ul class="nav navbar-nav" id="mainNav">
-		    	     <li><a href="Homepage.php" class="scroll-link">Home</a></li>
-		    	     <li class="active"><a href="About us.php" class="scroll-link">About</a></li>
+		    	     <li><a href="homepage.php" class="scroll-link">Home</a></li>
+		    	     <li class="active"><a href="about us.php" class="scroll-link">About</a></li>
 		    	     <li><a href="announcement.php" class="scroll-link">Announcement </a></li>
-		    	     <li><a href="FAQs.php" class="scroll-link">FAQs</a></li>
-               <li><a href="Officers.php" class="scroll-link">Officers</a></li>
-		    	     <li><a href="Login.php" class="scroll-link">Login</a></li>
+		    	     <li><a href="fAQs.php" class="scroll-link">FAQs</a></li>
+               <li><a href="officers.php" class="scroll-link">Officers</a></li>
+		    	     <li><a href="login.php" class="scroll-link">Login</a></li>
 		    	 </ul>
           </div>
 	      </nav>
