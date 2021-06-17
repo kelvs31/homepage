@@ -20,7 +20,7 @@
         </div>
         <div id="main-nav" class="collapse navbar-collapse navStyle">
          <ul class="nav navbar-nav" id="mainNav">
-           <li><a href="homepage.php" class="scroll-link">Home</a></li>
+           <li><a href="index.php" class="scroll-link">Home</a></li>
            <li><a href="about us.php" class="scroll-link">About</a></li>
            <li class="active"><a href="announcement.php" class="scroll-link">Announcement </a></li>
            <li><a href="fAQs.php" class="scroll-link">FAQs</a></li>
