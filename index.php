@@ -24,7 +24,7 @@
         <li class="active"><a href="homepage.php" class="scroll-link">Home</a></li>
         <li><a href="about us.php" class="scroll-link">About</a></li>
         <li><a href="announcement.php" class="scroll-link">Announcement </a></li>
-        <li><a href="FAQs.php" class="scroll-link">FAQs</a></li>
+        <li><a href="fAQs.php" class="scroll-link">FAQs</a></li>
         <li><a href="officers.php" class="scroll-link">Officers</a></li>
         <li><a href="login.php" class="scroll-link">Login</a></li>
       </ul>
